@@ -12,6 +12,7 @@ from datetime import date
 from scipy.stats import norm
 import matplotlib.pyplot as plt
 
+#test comment 1
 
 def NumOfDays(d1, d2):
     return (d1-d2).days
